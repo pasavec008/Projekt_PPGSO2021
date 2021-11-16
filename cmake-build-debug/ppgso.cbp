@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ppgso"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shaders">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/libshaders.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 shaders"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shaders/fast">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/libshaders.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 shaders/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ppgso">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/libppgso.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DGLM_FORCE_RADIANS"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/dependencies/include"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 ppgso"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ppgso/fast">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/libppgso.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DGLM_FORCE_RADIANS"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/dependencies/include"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 ppgso/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projekt">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DGLM_FORCE_RADIANS"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/dependencies/include"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 projekt"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projekt/fast">
+				<Option output="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/projekt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DGLM_FORCE_RADIANS"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/dependencies/include"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau"/>
+					<Add directory="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 projekt/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_frag_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_frag_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_frag_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_vert_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_vert_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_vert_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_frag_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_frag_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_frag_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_vert_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_vert_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_vert_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_frag_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_frag_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_frag_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_vert_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_vert_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_vert_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_frag_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_frag_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_frag_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_vert_glsl.cpp">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_vert_glsl.cpp.rule">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_vert_glsl.h">
+			<Option target="shaders"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_bmp.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_bmp.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_raw.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_raw.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/mesh.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/mesh.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/shader.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/shader.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/texture.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/texture.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/tiny_obj_loader.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/tiny_obj_loader.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/window.cpp">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/window.h">
+			<Option target="ppgso"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/src/projekt/projekt.cpp">
+			<Option target="projekt"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake/FindGLEW.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake/FindGLFW3.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake/FindGLM.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake/add_resources.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

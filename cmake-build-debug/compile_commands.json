@@ -1,0 +1,87 @@
+[
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\color_vert_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\color_vert_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_vert_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\color_frag_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\color_frag_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/color_frag_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\convolution_vert_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\convolution_vert_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_vert_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\convolution_frag_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\convolution_frag_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/convolution_frag_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\diffuse_vert_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\diffuse_vert_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_vert_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\diffuse_frag_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\diffuse_frag_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/diffuse_frag_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\texture_vert_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\texture_vert_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_vert_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\texture_frag_glsl.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\cmake-build-debug\\shaders\\texture_frag_glsl.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/shaders/texture_frag_glsl.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\mesh.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\mesh.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/mesh.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\tiny_obj_loader.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\tiny_obj_loader.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/tiny_obj_loader.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\shader.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\shader.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/shader.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\image.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image_bmp.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\image_bmp.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_bmp.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image_raw.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\image_raw.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/image_raw.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\texture.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\texture.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/texture.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\window.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\ppgso\\window.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/ppgso/window.cpp"
+},
+{
+  "directory": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/projekt.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter -std=gnu++14 -o CMakeFiles\\projekt.dir\\src\\projekt\\projekt.cpp.obj -c D:\\skola2021_2022\\predmety\\PPGSO\\Projekt_PPGSO2021-cau\\src\\projekt\\projekt.cpp",
+  "file": "D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/src/projekt/projekt.cpp"
+}
+]

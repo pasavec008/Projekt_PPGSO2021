@@ -1,0 +1,9 @@
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/shaders.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/install.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/install/local.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/ppgso.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/projekt.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/skola2021_2022/predmety/PPGSO/Projekt_PPGSO2021-cau/cmake-build-debug/CMakeFiles/install/strip.dir
