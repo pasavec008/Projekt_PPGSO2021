@@ -1,0 +1,3 @@
+C:/Users/Samuel Schmidt/Desktop/Files/UNI/3.rocnik__zimny/PPGSO/kostol/cmake-build-debug/CMakeFiles/kostol.dir
+C:/Users/Samuel Schmidt/Desktop/Files/UNI/3.rocnik__zimny/PPGSO/kostol/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samuel Schmidt/Desktop/Files/UNI/3.rocnik__zimny/PPGSO/kostol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
